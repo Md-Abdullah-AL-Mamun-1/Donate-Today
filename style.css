@@ -1,0 +1,190 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+
+/* first section */
+.first-div {
+    color: white;
+    text-align: center;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+.first-sect {
+    background-image: url(images/donation1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.first-size {
+    font-size: 80px;
+}
+
+.donate {
+    text-decoration: none;
+    color: aliceblue;
+    background-color: rgb(255, 136, 0);
+    padding: 15px 30px;
+    border-radius: 5px;
+}
+
+/* second section */
+.second-sect {
+    padding-top: 40px;
+}
+
+.second-div {
+    text-align: center;
+}
+
+.second-h {
+    font-size: 40px;
+}
+
+.second-p {
+    font-size: 20px;
+}
+
+.amount {
+    background-color: rgba(128, 128, 128, 0.229);
+    width: 10%;
+    padding: 40px;
+    margin: 10px;
+    text-align: center;
+}
+
+.amount-sp {
+    background-color: rgba(255, 166, 0, 0.242);
+    border: 5px solid rgba(255, 0, 0, 0.3);
+    width: 10%;
+    padding: 40px;
+    margin: 10px;
+    text-align: center;
+}
+
+.third-div {
+    display: flex;
+    padding-left: 15%;
+}
+
+.second-h4 {
+    border-bottom: 1px solid gray;
+    text-align: center;
+    color: rgba(128, 128, 128, 0.582);
+}
+
+.no-2-donate {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+/* third section */
+.forth-div {
+    text-align: center;
+    padding-top: 80px;
+}
+
+.fifth-div {
+    display: flex;
+    padding-top: 80px;
+}
+
+.six-div {
+    background-color: rgba(0, 255, 255, 0.184);
+    width: 40%;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: 10px;
+}
+
+.seven-div {
+    background-color: rgba(255, 192, 203, 0.315);
+    width: 40%;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: 10px;
+}
+
+.eight-div {
+    background-color: rgba(255, 255, 0, 0.201);
+    width: 40%;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: 10px;
+}
+
+/* forth section */
+.extra {
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+.nine-div {
+    background-color: rgba(128, 128, 128, 0.221);
+    width: 30%;
+    margin: 30px;
+    border-left: 20px solid blue;
+    border-right: 20px solid blue;
+    border-bottom: 20px solid blue;
+    text-align: center;
+}
+
+.ten-div {
+    background-color: rgba(128, 128, 128, 0.079);
+    width: 30%;
+    margin: 30px;
+    border-left: 20px solid orange;
+    border-right: 20px solid orange;
+    border-bottom: 20px solid orange;
+    text-align: center;
+    margin-left: 33%;
+}
+
+.eleven-div {
+    background-color: rgba(128, 128, 128, 0.223);
+    width: 30%;
+    margin: 30px;
+    border-left: 20px solid green;
+    border-right: 20px solid green;
+    border-bottom: 20px solid green;
+    text-align: center;
+    margin-left: 65%;
+}
+
+/* fifth section */
+
+.fifth-sect {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.therteen-div {
+    background-color: lightgoldenrodyellow;
+    margin: 80px;
+    padding: 60px;
+}
+
+.subscribe {
+    background-color: rgb(139, 90, 0);
+    color: aliceblue;
+}
+
+/* footer section */
+footer {
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    padding: 40px;
+}
+
+.footer-line {
+    color: orangered;
+}
